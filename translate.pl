@@ -85,7 +85,7 @@ $ translate.pl --from=ja --to=en "翻訳したい文字列"
 
 =head1 DESCRIPTION
 
-translate.pl は Microsoft の Bing Translator API を利用し、文字列を翻訳する。Bing Translator API を利用するには、Windows Live 登録とアプリケーションを登録してアプリケーション ID を入手する必要がある。
+translate.pl は Microsoft Translator API を利用し、文字列を翻訳する。Microsoft Translator API を利用するには、Windows Live 登録とアプリケーションを登録して アクセスキー(アプリケーションID)を入手する必要がある。
 
 =head1 AUTHOR
 
@@ -102,8 +102,13 @@ http://www.bing.com/developers/createapp.aspx
 
 =item *
 
-Bing developer site
-http://www.bing.com/toolbox/bingdeveloper/
+Microsoft Translator Developer site
+http://www.microsofttranslator.com/dev/
+
+=item *
+
+Bing Developer site
+http://www.bing.com/developers/
 
 =back
 
