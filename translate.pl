@@ -97,17 +97,20 @@ Ryoji Tanida <ryo2.amari3 at gmail.com>
 
 =item *
 
-Register windows live 
+Register windows live
+
 http://www.bing.com/developers/createapp.aspx
 
 =item *
 
 Microsoft Translator Developer site
+
 http://www.microsofttranslator.com/dev/
 
 =item *
 
 Bing Developer site
+
 http://www.bing.com/developers/
 
 =back
